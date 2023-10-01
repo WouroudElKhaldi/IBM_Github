@@ -11,7 +11,7 @@ function findMaxNumber(arr) {
     }
   }
 
-  return max;
+  return ma;
 }
 
 // Example usage:
