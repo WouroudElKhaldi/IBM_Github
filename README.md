@@ -16,3 +16,6 @@ To get started with this project, follow these installation instructions:
 1. Clone the repository: `git clone https://github.com/yourusername/your-project.git`
 2. Install the required dependencies: `npm install`
 3. Run the project: `npm start`
+
+## Authors
+- [@WouroudElKhaldi](https://github.com/WouroudElKhaldi)
